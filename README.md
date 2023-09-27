@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@harinar1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harinar1227" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hari narayan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari narayan singh" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/hari narayan sing](https://www.linkedin.com/in/hari-narayan-singh-768723222/)h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari narayan singh" height="30" width="40" /></a>
 <a href="https://instagram.com/raman_here1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raman_here1227" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rs2607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rs2607" height="30" width="40" /></a>
 </p>
