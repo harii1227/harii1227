@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hariportfolio2708.netlify.app/](https://hariportfolio2708.netlify.app/)
 
-- 📫 How to reach me **rs22201227@gmail.com**
+- 📫 How to reach me **hnsinghcareer1227@gmail.com**
 
 - ⚡ Fun fact **I enjoy sharing about myself.**
 
