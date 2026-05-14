@@ -30,7 +30,7 @@ const hari = {
   certified: "AWS Certified AI Practitioner (AIF-C01)",
   currentlyLearning: ["Machine Learning", "Database & SQL"],
   funFact: "I enjoy sharing about myself 😄"
-  // Let's build something awesome together
+  Let's build something awesome together
 };
 ```
 
